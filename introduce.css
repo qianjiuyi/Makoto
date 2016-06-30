@@ -28,10 +28,11 @@ img{border:0px;}
 	}
 }
 			
-.page_1{background:url("img/pic9.jpg") no-repeat;background-size:100% 100%;}			
-.page_2{background:url("img/pic10.jpg") no-repeat;background-size:100% 100%;}
-.page_3{background:url("img/pic11.jpg") no-repeat;background-size:100% 100%;}
-
+.page_1{background:chartreuse;}			
+.page_2{background:#2e5db9;}
+.page_3{background:orange;}
+.page_4{background:cyan;}
+.page_5{background:pink;}
 
 
 
